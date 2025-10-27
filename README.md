@@ -1,7 +1,5 @@
 # Coding Shuttle Spring Boot Handbook
 
-![Spring Boot Handbook](https://www.codingshuttle.com/_next/static/media/header_image_spring_boot_launch.afb6f061.png)
-
 ### [Read Full Handbook](https://www.codingshuttle.com/spring-boot-handbook)
 
 ---
